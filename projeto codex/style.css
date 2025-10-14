@@ -427,11 +427,11 @@
         bottom:0;
         left:0;
         right:0;
-        width:100%;
+        width:%;
         background:linear-gradient(135deg, var(--crimson), var(--crimson-dark));
         border-top:1px solid var(--gold);
         box-shadow:0 -4px 16px rgba(0,0,0,.6), 0 0 20px var(--glow-red);
-        padding:12px 16px;
+        padding:0.5px 16px;
         justify-content:center;
         z-index:1000;
       }
